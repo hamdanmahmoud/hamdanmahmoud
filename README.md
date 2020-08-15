@@ -65,4 +65,4 @@
 [instagram]: https://www.instagram.com/mahmoudhamdanya/
 [linkedin]: https://www.linkedin.com/in/mahmoud-tudor-hamdan/
 
-<img style="display: none;" align="center" alt="Github"" src="https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png" />
+<img style="display: none;" align="center" alt="Github" src="https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png" />
