@@ -1,4 +1,5 @@
 ## Young gun, fresh graduate and proud engineer
+<img width="22px" align="center" alt="Github" src="https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png" />
 
 ### Interested in:
 
@@ -64,5 +65,3 @@
 
 [instagram]: https://www.instagram.com/mahmoudhamdanya/
 [linkedin]: https://www.linkedin.com/in/mahmoud-tudor-hamdan/
-
-<img width="22px" align="center" alt="Github" src="https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png" />
