@@ -21,21 +21,16 @@
 <img align="left" alt="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Java" title="Java" width="26px" src="https://user-images.githubusercontent.com/37018010/89497814-c2813c00-d7c5-11ea-9cd5-88dbad73e33e.png" />
-<img align="left" alt="Python" title="Python" width="26px" src="https://user-images.githubusercontent.com/37018010/89497671-7b934680-d7c5-11ea-9fbc-cfaaf938832c.png" />
-<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" title="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://user-images.githubusercontent.com/37018010/89498112-44716500-d7c6-11ea-91bb-94ddfec92f2e.png" />
 <img align="left" alt="HTTP" title="HTTP" width="26px" src="https://user-images.githubusercontent.com/37018010/89521104-94acef00-d7e7-11ea-8ea0-ebc9a821ed27.png" />
-<img align="left" alt="MQTT" title="MQTT" width="26px" src="https://user-images.githubusercontent.com/37018010/89520790-12bcc600-d7e7-11ea-9255-e118d3002307.png" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="WebSockets" title="WebSockets" width="26px" src="https://user-images.githubusercontent.com/37018010/89520846-2536ff80-d7e7-11ea-9313-dd73081e454d.png" />
 <br />
 <br />
 
 ### Basic experience in:
 
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Spring" title="Spring" width="26px" src="https://user-images.githubusercontent.com/37018010/89497521-2b1be900-d7c5-11ea-97c2-1d0553f9dd3b.png" />
 <img align="left" alt="Redis" title="Redis" width="26px" src="https://user-images.githubusercontent.com/37018010/89498276-9c0fd080-d7c6-11ea-9ade-a85d5e09d71d.png" />
 <img align="left" alt="Elasticsearch" title="Elasticsearch" width="26px" src="https://user-images.githubusercontent.com/37018010/89527671-6680dc80-d7f2-11ea-93b4-f1c6b1e026fb.png" />
@@ -43,7 +38,12 @@
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" title="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="RaspberryPi" title="RaspberryPi" width="26px" src="https://user-images.githubusercontent.com/37018010/89498924-d0d05780-d7c7-11ea-879a-bccb217e9fe7.jpg" />
-<img align="left" alt="WebSockets" title="WebSockets" width="26px" src="https://user-images.githubusercontent.com/37018010/89520846-2536ff80-d7e7-11ea-9313-dd73081e454d.png" />
+<img align="left" alt="Java" title="Java" width="26px" src="https://user-images.githubusercontent.com/37018010/89497814-c2813c00-d7c5-11ea-9cd5-88dbad73e33e.png" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://user-images.githubusercontent.com/37018010/89497671-7b934680-d7c5-11ea-9fbc-cfaaf938832c.png" />
+<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express" title="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://user-images.githubusercontent.com/37018010/89498112-44716500-d7c6-11ea-91bb-94ddfec92f2e.png" />
+<img align="left" alt="MQTT" title="MQTT" width="26px" src="https://user-images.githubusercontent.com/37018010/89520790-12bcc600-d7e7-11ea-9255-e118d3002307.png" />
 <br />
 <br />
 
