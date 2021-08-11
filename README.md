@@ -1,4 +1,4 @@
-## Young gun, fresh graduate and proud engineer
+## Fresh graduate and proud engineer
 
 ### Interested in:
 
