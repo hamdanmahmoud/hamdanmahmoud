@@ -7,7 +7,6 @@
 - <img align="left" alt="Cybersecurity" width="20px" src="https://user-images.githubusercontent.com/37018010/89501812-a634cd80-d7cc-11ea-86a7-151264ee15e6.png" />**Cybersecurity**
 - <img align="left" alt="Kickboxing" width="22px" src="https://user-images.githubusercontent.com/37018010/89501919-d41a1200-d7cc-11ea-8ba0-cce1b8ac5c7a.png" /> **Kickboxing**
 - <img align="left" alt="Traveling" width="22px" src="https://user-images.githubusercontent.com/37018010/89502057-0e83af00-d7cd-11ea-882c-fad30d131cab.png" /> **Traveling**
-- <img align="left" alt="Hip hop" width="22px" src="https://user-images.githubusercontent.com/37018010/89502141-2bb87d80-d7cd-11ea-907e-86caaf740122.png" /> **Hip hop**
 
 ### Social media:
 
