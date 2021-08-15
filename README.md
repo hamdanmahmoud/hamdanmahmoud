@@ -8,10 +8,9 @@
 - <img align="left" alt="Kickboxing" width="22px" src="https://user-images.githubusercontent.com/37018010/89501919-d41a1200-d7cc-11ea-8ba0-cce1b8ac5c7a.png" /> **Kickboxing**
 - <img align="left" alt="Traveling" width="22px" src="https://user-images.githubusercontent.com/37018010/89502057-0e83af00-d7cd-11ea-882c-fad30d131cab.png" /> **Traveling**
 
-### Social media:
+### Social network:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
