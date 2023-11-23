@@ -5,8 +5,6 @@
 - <img align="left" alt="Algorithms" width="22px" src="https://user-images.githubusercontent.com/37018010/89501644-5ce47e00-d7cc-11ea-8568-29e52110201a.png" /> **Coding & algorithms**
 - <img align="left" alt="Systems design" width="22px" src="https://user-images.githubusercontent.com/37018010/89501505-20188700-d7cc-11ea-8f31-cf9876cb1135.png" /> **Systems design**
 - <img align="left" alt="Cybersecurity" width="20px" src="https://user-images.githubusercontent.com/37018010/89501812-a634cd80-d7cc-11ea-86a7-151264ee15e6.png" />**Cybersecurity**
-- <img align="left" alt="Kickboxing" width="22px" src="https://user-images.githubusercontent.com/37018010/89501919-d41a1200-d7cc-11ea-8ba0-cce1b8ac5c7a.png" /> **Kickboxing**
-- <img align="left" alt="Traveling" width="22px" src="https://user-images.githubusercontent.com/37018010/89502057-0e83af00-d7cd-11ea-882c-fad30d131cab.png" /> **Traveling**
 
 ### Social network:
 
